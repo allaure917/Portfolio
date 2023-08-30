@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "Data/Processed"
+		},
+		{
+			"path": "Data/Raw"
+		}
+	]
+}
